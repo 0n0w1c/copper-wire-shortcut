@@ -1,0 +1,18 @@
+{
+    "name": "copper-wire-shortcut",
+    "title": "Copper wire shortcut",
+    "description": "Changes the color to harvest gold and adds wire end caps.",
+    "version": "0.0.1",
+    "author": "0n0w1c",
+    "factorio_version": "2.0",
+    "quality_required": false,
+    "rail_bridges_required": false,
+    "space_travel_required": false,
+    "spoiling_required": false,
+    "freezing_required": false,
+    "segmented_units_required": false,
+    "expansion_shaders_required": false,
+    "dependencies": [
+        "base"
+    ]
+}
