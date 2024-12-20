@@ -1,4 +1,4 @@
-local copper_tint = settings.startup["copper-wire-shortcut-tint"].value --[[@as Color]]
+local copper_tint = { 222, 139, 3 }
 
 local copper_shortcut = data.raw["shortcut"]["give-copper-wire"]
 
